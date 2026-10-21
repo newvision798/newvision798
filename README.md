@@ -117,9 +117,7 @@
 
 | 宇宙坐标 | 仓库 / 工程 | 核心领域 | 架构技术 |
 | :---: | :--- | :--- | :--- |
-| 🪐 | [**manim-tutorial-ce-gl**](https://github.com/newvision798/manim-tutorial-ce-gl) | **3Blue1Brown 风格数学动画双引擎深度全案** | `Python` `Manim` `LaTeX` `GLSL` |
-| 🌐 | **Web3D & Interactive Portals** | **沉浸式三维可视化与数字孪生展示仓** | `Three.js` `Vue` `React` `WebGL` |
-| 🔌 | **IoT-Hardware-Gateway** | **ESP32 / Arduino 边缘采集与传感器集群联动** | `ESP32` `Arduino` `Go / Node.js` |
+
 
 ---
 
